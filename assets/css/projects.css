@@ -1,0 +1,25 @@
+.project-card {
+  opacity: 1;
+  transition: opacity 0.8s ease-in-out, transform 0.8s ease-in-out;
+  transform: scale(1);
+}
+
+.fade-out {
+  opacity: 0;
+  transform: scale(0.95);
+}
+
+.project-card .card-body {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.project-card .card-text {
+  flex-grow: 1;
+}
+
+.project-card .card-links {
+  margin-top: auto;
+}
+
