@@ -1,8 +1,11 @@
-# Overview
-My personal website. Made with Bootstrap Studio.
+# kien.do
 
-Great (quick) tutorial to start here: https://education.github.com/experiences/intro_to_web_dev
+Personal portfolio — [kienmarkdo.github.io/kien_do](https://kienmarkdo.github.io/kien_do/)
 
-NOTE: Click Export --> Export Design to update .html page.
+## Tech Stack
 
-<!-- Author: Kien Do @ https://github.com/kienmarkdo -->
+- **HTML / CSS / JavaScript** — no frameworks, no build tools
+- **[DM Sans](https://fonts.google.com/specimen/DM+Sans)** + **[JetBrains Mono](https://fonts.google.com/specimen/JetBrains+Mono)** via Google Fonts
+- **[Font Awesome](https://fontawesome.com/)** for icons (self-hosted)
+- **Intersection Observer API** for scroll-reveal animations
+- Hosted on **GitHub Pages**
